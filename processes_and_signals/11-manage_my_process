@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 #  manages manage_my_process
 start_action() {
 	# starts manage_my_process in the background		
